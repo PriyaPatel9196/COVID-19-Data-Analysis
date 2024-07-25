@@ -23,3 +23,22 @@ This project files are divided between the following folders:
 ● How have COVID-19 death rates and contributing conditions changed over time?
 
 ● What factor are most predictive of COVID-19 death rates?
+## Tools
+● Python: Primary programming language used for data analysis.
+
+● Panads: For data manipulation and analysis.
+
+● NumPy: For numerical operations.
+
+● Matplotlib & Seaborn: For generating data visualizations.
+
+● Scikit-learn: For implementing machine learning models.
+
+● Statsmodels: For time series analysis and ARIMA modeling.
+
+● Geopandas: For geographical data manipulation and visualization.
+
+● Plotly: For interactive visualizations.
+
+● Tableau Public: For creating interactive visualizations and dashboards.
+
