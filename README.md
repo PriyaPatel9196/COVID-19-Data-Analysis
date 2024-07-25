@@ -41,4 +41,5 @@ This project files are divided between the following folders:
 ● Plotly: For interactive visualizations.
 
 ● Tableau Public: For creating interactive visualizations and dashboards.
-
+## Visualizations
+This project includes various visualizations such as scatter plots, choropleth map, bar charts and time-series plots, which illustrate the impact of differnt conditions on COVID-19 mortality, geographical variations, and temporal trends.
