@@ -46,3 +46,18 @@ This project includes various visualizations such as scatter plots, choropleth m
 Take a look at the <a href="https://public.tableau.com/app/profile/priya.patel2009/viz/AnalysisofCOVID-19Data_17217830518570/COVID-19DataAnalysis?publish=yes">
                     <button> Tableau Workbook</button>
                     </a> on Tableau Public.
+## Analysis Sections
+### Initial Data Exploration
+● Exploration of the dataset: Understanding the structure and kry statistics.
+
+● Cleaning and preprocessing: Handling missing values, outliers, and data type conversions.
+### Geographical Analysis
+● Choropleth map: Visualizing total COVID-19 deaths across states.
+
+● Insights: Identifying high-impact regions and patterns.
+### Linear Regression Analysis
+● Model Building: Developing a regression model to predict COVID-19 deaths based on the number of mentions of conditions.
+
+● Performance Evaluation: Assessing the model using Mean Squared Error (MSE) and R-squared score.
+
+### Cluster Analysis
