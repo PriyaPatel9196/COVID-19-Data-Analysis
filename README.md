@@ -11,9 +11,15 @@ This project files are divided between the following folders:
 5. Sent to Client: Includes the Tableau Public storyboard as a PDF file.
 ## Key Questions
 ● What are the most common conditions contributing to COVID-19 deaths is different age group?
+
 ● Which group have highest death and which conditions contributing to COVID-19 deaths?
+
 ● Which states have highest specific conditions contributing to COVID-19 deaths?
+
 ● What are the regional patterns and which region have highest COVID-19 deaths?
+
 ● Which month or season has highest COVID-19 deaths?
+
 ● How have COVID-19 death rates and contributing conditions changed over time?
+
 ● What factor are most predictive of COVID-19 death rates?
