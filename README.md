@@ -9,3 +9,4 @@ This project files are divided between the following folders:
 3. Scripts: The Jupyter notebooks containing the coding for the analysis.
 4. Analysis: The Visualizations folder contains the visualizations used for developing and explaining insights.
 5. Sent to Client: Includes the Tableau Public storyboard as a PDF file.
+## Key Questions
