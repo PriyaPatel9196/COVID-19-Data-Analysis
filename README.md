@@ -61,3 +61,31 @@ Take a look at the <a href="https://public.tableau.com/app/profile/priya.patel20
 ● Performance Evaluation: Assessing the model using Mean Squared Error (MSE) and R-squared score.
 
 ### Cluster Analysis
+● K-means clustering: Identifying clusters of states with similar COVID-19 impact.
+
+● Cluster Interpretation: Analyzing the characteristics and severity of each cluster.
+
+### Time Series Analysis
+● Trend and Seasonality: Decomposing time series data to identify trends and seasonal patterns.
+
+● Stationarity Check: Performing the Dicky-Fuller test and differencing to achieve stationarity.
+
+● Autocorrelation Analysis: Using ACF and PACF plots to analyze the autocorrelation structure of the time series data.
+## Conclustion and Recommendations
+The analysis provided actionable insights into the factors contibuting to COVID-19 mortality, highlighting the importance of demographic and condition-specific factors. The findings support targeted public health interventions and resource allocation strategies to better prepare for future health crises.
+## Limitations and Potential Biases
+● Provisional Nature of Data: Data is provisional and conclusions may need revision as finalized data becomes available.
+
+● Reporting Delays: Delays in reporting can affect the completeness of recent data.
+
+● Inconsistent Reporting Standards: Variability in state-level reporting standards may impact reliability.
+
+● Multiple Conditions: Presence of multiple conditions per death complicates analysis.
+
+● Double Counting Risk: Deaths involving multiple conditions are counted in each relevant category.
+
+● Population Data: Analysis is based on 2020 population data, which may not reflect changes over time.
+## Recommendations for Future Work
+● Enhanced Clustering: Perform clustering analyses on additional conditions and demographics.
+
+● Predictive Modeling: Develop models to identify high-risk populations and enhance public health strategies.
